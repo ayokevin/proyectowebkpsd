@@ -1,0 +1,27 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html" />
+	<meta name="author" content="gencyolcu" />
+
+	<title>Probando nuevas marcas de html</title>
+</head>
+
+<body><div>
+<article><h1>Living Things</h1>es el quinto álbum de estudio de la banda estadounidense de nu metal y rock alternativo 
+Linkin Park. El álbum fue lanzado el 26 de junio de 2012 por el sello discográfico Warner Bros. Records.3 La producción 
+estuvo a cargo del vocalista Mike Shinoda y Rick Rubin, quien co-produjo los dos álbumes anteriores de la banda, Minutes 
+to Midnight y A Thousand Suns. Antes del lanzamiento del álbum, la banda declaró que el nuevo material contaría con una 
+nueva dirección en su música, combinando los elementos rap rock de su álbum debut, Hybrid Theory, y las mezclas 
+electrónicas de A Thousand Suns, manteniendo al mismo tiempo un sonido original. Este es el cuarto álbum de Linkin Park 
+en debutar en la posición número uno en los Estados Unido</article><br /><br />
+<audio src="Linkin_Park-Lost_In_The_Echo.mp3" controls="" autoplay="" loop="" > <p>Tu navegador no implementa el elemento audio.</p> </audio><br />
+
+<bdi> (la abreviación de «bi-directional isolation»). Según MDN el soporte de la nueva etiqueta pronto aparecerá en 
+Google Chrome (en la version 16) y en Firefox (en la version 10).o </bdi>
+</div>
+
+
+
+</body>
+</html>
